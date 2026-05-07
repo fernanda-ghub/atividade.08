@@ -1,0 +1,26 @@
+{
+  "name": "atividade.08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernanda-ghub/atividade.08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fernanda-ghub/atividade.08/issues"
+  },
+  "homepage": "https://github.com/fernanda-ghub/atividade.08#readme",
+  "dependencies": {
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  },
+  "type": "module"
+}
